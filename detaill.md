@@ -3,7 +3,7 @@ we cover basic of arraylist
 1) reverse arraylist
 2) max 
 3) swap to with their indx 
-4) sort collection => class
+4) sort collections => class
 
 # Container with most water
 1) brute force  O(n^2)
